@@ -3,7 +3,7 @@ include $(TOP)/configure/CONFIG
 #=======================================
 
 # Install .dbd and .db files
-DB_INSTALLS += devDMM4040.db
+DB_INSTALLS += devDMM40X0.db
 # FIXME -- HOW TO INSTALL DMM4040.proto????
 
 #=======================================
